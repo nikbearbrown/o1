@@ -1,0 +1,6 @@
+[submodule "papers/nanolex-provenance"]
+	path = papers/nanolex-provenance
+	url = https://github.com/nikbearbrown/nanolex-provenance.git
+[submodule "papers/skills-lexicon"]
+	path = papers/skills-lexicon
+	url = https://github.com/nikbearbrown/skills-lexicon.git
