@@ -15,7 +15,8 @@ Find opportunities for a person to contribute in each of the eight O-1A areas, k
 5. **Say what is weak.** Mark local awards, dues-based memberships, self-generated press, paid placements, unselective venues and passing mentions as weak, with the reason.
 6. **Do not give legal advice.** The attorneys decide which criteria to claim and how to argue step 2. Do not state that a person "meets" a criterion.
 7. **Keep personal data out of public files.** Names, pay, immigration status, and case strategy stay in the git-ignored `PRIVATE/` folder, not in the READMEs or CSVs that may be published.
-8. **The 2026 policy details in `README.md` are unverified by the agent that wrote them.** Re-check against USCIS pages before relying on them.
+8. **Prefer external, selective venues.** Do not create judging panels, awards or publications through organisations the people involved run; in-network evidence is easy to discount. Find existing selective venues instead. Test each opportunity: would it still mean something if nobody involved needed a visa?
+9. **The 2026 policy details in `README.md` are unverified by the agent that wrote them.** Re-check against USCIS pages before relying on them.
 
 ## How to log
 

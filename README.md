@@ -10,7 +10,9 @@
 2. **Since August 2026 a thin filing can be denied outright.** Policy Alert PA-2026-05 lets officers deny without first issuing a request for evidence. File the strongest complete case the first time.
 3. **Build backward from the step-2 argument.** Define who "the top of the field" is, show where the person sits, then map evidence onto criteria. Do not collect three boxes and hope.
 
-**Not legal advice.** These are research notes dated 2026-10-28. The attorneys on a case are the authority. Use this to have a sharper conversation with them. I (the AI that assembled this folder) have not independently verified the 2026 policy details or the approval statistics in Part 4; they come from the research notes and the sources listed at the end, and should be checked against the USCIS pages before anyone relies on them.
+**For a recent graduate, where to put effort.** Three criteria can be actively applied for or volunteered into: **judging, authorship and awards**. **Press** cannot be applied for but can be caused. **Critical role** and **salary** follow from job choice. **Original contributions** is earned, though adoption can be made visible. **Membership** is mostly out of reach in the first five years. Test every opportunity: *would this still mean something if nobody involved needed a visa?* Apply for anything selective and merit-based, because the selection process does the proving; skip anything that accepts everyone or charges to enter, because selectivity is the whole evidentiary value.
+
+**Not legal advice.** These are research notes dated 2026-10-28. The attorneys on a case are the authority. Use this to have a sharper conversation with them. I (the AI that assembled this folder) have not independently verified the 2026 policy details or the approval statistics in Part 6, the award deadlines, or the practitioner claims in Part 7; they come from the research notes and the sources listed at the end, and should be checked against the USCIS pages before anyone relies on them.
 
 ## Part 1: What to do to build the profile
 
@@ -30,6 +32,26 @@ Start now; most of this takes months.
 12. **Find independent recommenders.** Authors who cite and build on the work are ideal, and cold outreach to them is normal practice. Letters from supervisors, collaborators and co-authors carry less weight.
 13. **Plan for the green card.** O-1A evidence overlaps heavily with EB-1A. Some practitioners advise against spending every top independent recommender on the O-1.
 14. **Have a contingency** for an outright denial, since 2026 procedure no longer guarantees a request for evidence first.
+
+### Where a recent graduate should put effort
+
+| Criterion | Can you go get it? | Time to build | Best moves | Main trap |
+|---|---|---|---|---|
+| Judging | Yes | Fastest: months | Conference and journal reviewing; professional hackathons and pitch competitions | Student events; invitations without proof of completion |
+| Authorship | Yes | Months (peer-review cycles) | Peer-reviewed papers and proceedings; technical articles in professional magazines | Preprints, op-eds, corporate blogs, pay-to-publish venues |
+| Awards | Yes, by applying | Annual cycles | Free, selective, expert-judged honors; best-paper awards; national competitions | Pay-to-enter, public-vote, and many-category awards |
+| Press | Indirectly | Months to years | Newsworthy work, pitched to trade and professional reporters | Paid placements, self-authored pieces, institutional press releases alone |
+| Original contributions | Earned | Years | Make adoption visible: open source, datasets, independent citations | Counting outputs instead of showing uptake |
+| Critical role | Through job choice | Tied to employment | Roles at organizations whose reputation can be documented | Titles without documented impact; obscure organizations |
+| High salary | Through job choice | Tied to employment | Top-paying employers; equity for founders | Comparing against the wrong occupation or metro |
+| Membership | Rarely, early career | Years | Mostly skip for now | Dues-based or experience-based memberships |
+
+**Common ideas that need adjusting**
+
+- **Hackathon judging** counts when it is judging professionals. Judging student hackathons is consistently treated as weak.
+- **Writing for a general-audience magazine** does not hit the criterion it seems to. The press criterion requires material about the person, so self-authored pieces do not count there, and general-audience opinion pieces are usually not "scholarly" enough for the authorship criterion.
+- **Books** are slow and usually land in the wrong criterion. A technical book from an established publisher, especially one adopted for courses, can help. A trade or self-published book mostly does not.
+- **Papers in progress** count only once they are published after peer review, before the filing date. Preprints and papers under review do not.
 
 ## Part 2: The short answer, and the correction
 
@@ -108,21 +130,40 @@ That fourth point bears directly on support letters. The guidance targets affida
 
 Ordered roughly from most to least accessible for a researcher.
 
-**Judging.** Usually the fastest criterion to build, because opportunities recur. Ask program chairs and editors to add the person to reviewer pools. For every review, keep the invitation and the proof of completion (confirmation email, reviewer acknowledgment, portal screenshot). Repeat invitations from the same venue show sustained recognition. Practitioners generally treat judging student work (class projects, student hackathons) as weak; the Policy Manual's examples are peer review, conference abstract review, dissertation committees, and government grant panels. Volume helps at step 1; venue prestige helps at step 2.
+**Judging.** Usually the fastest criterion to build, because opportunities recur and accumulate. Two conditions do all the work: the person judged the work of professionals in their own or an allied field, and there is proof the judging actually happened. What to pursue:
+
+- **Peer review for conferences and journals.** The strongest form. Many major conferences recruit reviewers through volunteer forms or nominations from area chairs, and workshops are an easier entry point. For journals, an editor or an established reviewer can recommend someone; that is where a mentor can help directly.
+- **Professional hackathons, pitch competitions and demo days,** where entrants are working professionals or startups, the event uses a formal rubric, and judges are chosen for expertise.
+- **Grant or program review panels,** when available. Rare early in a career, but strong.
+
+Avoid or discount student hackathons, class project showcases, and anything closer to mentoring than scoring. Practitioners draw a firm line between judging (assessing work against criteria and influencing outcomes) and mentoring or hosting (giving advice, holding office hours). Be skeptical of services that broker judging slots, or events that seem to exist partly to supply judges; officers check whether the competition itself is credible. Keep for each: the invitation; proof of completion (scorecards, rubrics, review-submitted confirmations, an organizer letter); and something showing the event's scale and selectivity. Practitioners report officers increasingly want completed evaluations, not just invitations. The Policy Manual's examples are peer review, conference abstract review, dissertation committees and government grant panels. Volume helps at step 1; venue prestige helps at step 2.
 
 **Authorship.** Easy at step 1, but it only matters at step 2 if the venues are strong. A paper in a pay-to-publish journal satisfies the plain language of the criterion, yet the Policy Manual says it won't necessarily support a finding of acclaim. (Paying open-access fees at a selective journal doesn't count against you.) For each paper, document the venue: acceptance rate, impact factor, or field ranking.
 
-**Critical role.** Two halves, and both have to be proved: the role was critical or essential, and the organization (or the specific division) has a distinguished reputation. For academic settings, national rankings, research classification, and government grants establish reputation. For startups, funding commensurate with stage and industry. The Policy Manual explicitly contemplates a detailed letter from the director or PI explaining why a supporting role mattered relative to others in similar positions, and the person need not have been directly employed by the organization.
+- **Papers in progress** are the core, but timing is unforgiving. USCIS expects eligibility to be established at the time of filing, and practitioners report officers treating arXiv preprints as not yet scholarly articles because peer review is not complete. A paper under review on filing day does not exist for the petition. Published proceedings from recognized conferences do count; the Policy Manual says so explicitly.
+- **Articles in general-audience magazines** have two problems. The press criterion requires material about the person, so a piece the person writes does not qualify. For authorship the article must be scholarly (written for learned people in the field) and appear in a professional publication, major trade publication or major media; general-interest op-eds are usually argued under other criteria. A better target is a professional or trade magazine aimed at practitioners (in computing, something like IEEE Spectrum or Communications of the ACM; examples from the research notes, not USCIS's), with a technical piece rather than an opinion piece. General-audience writing can still support the overall picture at step 2 and may lead to coverage about the person.
+- **Books** are slow and often mapped to the wrong criterion. Major textbook authorship supports the criterion when the book is adopted at multiple institutions and reviewed in the scholarly literature. A technical book from an established publisher can help, and reviews of it in professional or major outlets would be published material about the person. A self-published or general trade book adds little. With a one-to-two-year production cycle, a book is rarely the efficient move for a near-term O-1; think of it as an EB-1A-horizon project.
 
-**Original contributions of major significance.** The hardest criterion and the one most often lost on appeal. Being published or funded shows originality, not significance. What moves it: independent citations, especially ones that build on the work rather than list it; adoption by others (for software, downloads, forks, dependent projects; the Policy Manual explicitly includes repositories of software, data, and protocols with documented impact); commercialization or licensing; and expert letters that say specifically what changed in the field because of the work, each claim backed by an exhibit.
+**Critical role.** Two halves, and both have to be proved: the role was critical or essential, and the organization (or the specific division) has a distinguished reputation. For academic settings, national rankings, research classification, and government grants establish reputation. For startups, funding commensurate with stage and industry. The Policy Manual explicitly contemplates a detailed letter from the director or PI explaining why a supporting role mattered relative to others in similar positions, and the person need not have been directly employed by the organization. For a recent graduate this is a job-choice decision: favor organizations whose distinction is easy to prove (rankings, funding, media coverage) and a supervisor who can describe specific impact in a letter.
 
-**Press.** It has to be about the person and their work, not a topic story with a passing mention. Title, date, and author are required, and the outlet's audience or circulation should be documented. University news office stories are self-generated and weak; paid placements are a red flag. Earned coverage takes months to develop.
+**Original contributions of major significance.** The hardest criterion and the one most often lost on appeal. Being published or funded shows originality, not significance. It cannot be applied for, but much of what makes it provable is documentation habit:
 
-**Awards.** Document the selection criteria, applicant pool, number of winners, and who judged. An award open across an entire research university or a national professional body can qualify where a department-only award won't.
+- Release code, models or datasets publicly and track downloads, forks, dependent projects and who uses them. The Policy Manual explicitly lists contributions to repositories with documented impact.
+- Track independent citations, especially papers that build on the work rather than merely list it.
+- Save evidence of adoption as it happens: emails from teams using the tool, industry mentions, integrations into other products.
+- Commercialization or licensing, and expert letters that say specifically what changed in the field because of the work, each claim backed by an exhibit.
 
-**Membership.** Only selective, expert-judged grades count. Don't spend exhibits on dues-based memberships. Board or committee service at an organisation does not satisfy this criterion, which requires an outstanding-achievement gate judged by experts.
+**Press.** It has to be about the person and their work, not a topic story with a passing mention. Title, date, and author are required, and the outlet's audience or circulation should be documented. It cannot be applied for, but it can be caused: do work that is newsworthy, make it legible (a clear write-up, a demo, a public release), and pitch it to reporters covering that beat at trade and professional outlets. A university news office story is self-published by the institution and carries little weight on its own, though reporters do pick those stories up. Earned coverage is a months-long relationship with journalists, not a weeks-long campaign. Paid placements and press releases do not count.
 
-**Salary.** Compare against the specific occupation in the specific metro using government wage data. Vague comparisons fail.
+**Awards.** The question USCIS and the AAO ask is whether the award recognizes excellence nationally or internationally, and the petition has to prove it: rules, judging criteria, number of nominees and recipients, judges' qualifications, past winners, geographic scope, and press coverage. An award open across an entire research university or a national professional body can qualify where a department-only award won't. The AAO has rejected placements at a large international competition when the selection process was not documented, rejected public-vote magazine contests, and rejected venture funding and accelerator admission as awards, reasoning that an investment decision is not a prize for excellence.
+
+- **Free, selective, expert-judged honors that accept self-nominations.** *MIT Technology Review Innovators Under 35:* free, self-nominations encouraged, nominees under 35; the 2026 list drew 550 nominations for 35 spots, chosen by editors with input from an expert panel; nominations for the 2027 list open by early December 2026; regional editions exist (Europe, Asia Pacific, Latin America, Middle East and North Africa). *Forbes 30 Under 30:* free, self-nominations considered equally, nominees 29 or younger; the 2027 U.S. cycle closed September 1, 2026; regional lists run on their own calendars; Forbes weighs scale, impact and innovation, so it suits founders better than researchers. The odds are long (roughly 6% of Innovators Under 35 nominees made the 2026 list), but the cost is an hour. Both produce a published profile; the attorneys decide whether to claim it under awards, press or both, remembering that one achievement presented twice reads as one achievement.
+- **Recognitions earned through the work.** Best paper, best demo or best poster at nationally or internationally recognized conferences (the Policy Manual names awards for conference presentations). Wins or top placements in national or international technical competitions with formal judging: professional hackathons, pitch competitions, data science competitions with ranked leaderboards; document the number of entrants and how judging worked.
+- **Traps.** Pay-to-enter business awards with entry fees, hundreds of categories and many winners (the Stevie and Globee Awards are frequently cited) are weak. Public-vote and popularity awards have been rejected. Funding, grants and accelerator admission presented as awards are weak as awards; competitive government grants are more useful as step-2 evidence and for the critical-role criterion.
+
+**Membership.** Only selective, expert-judged grades count, and the fellow-level grades that do count typically arrive mid-career, so for a recent graduate put effort here last. Don't spend exhibits on dues-based, degree-based or experience-based memberships. Board or committee service at an organisation does not satisfy this criterion, which requires an outstanding-achievement gate judged by experts. Some practitioners argue selective accelerator cohorts as memberships when acceptance rates are documented, but that is contested, and the AAO has rejected accelerator admission as an award.
+
+**Salary.** Compare against the specific occupation in the specific metro using government wage data. Vague comparisons fail. Early-career pay rarely clears the bar outside top-paying employers; founders can argue equity as comparable evidence.
 
 **Evidence hygiene that applies across all of them:**
 
@@ -170,6 +211,15 @@ Three different documents get called "letters":
 6. How many letters, how many independent, and who is drafting them?
 7. Given PA-2026-05, is the filing complete enough to survive a denial without an RFE, and what is the contingency plan if it's denied?
 8. Is the evidence being assembled with a later EB-1A petition in mind?
+
+## Part 10: A caution if this becomes a program
+
+If this guidance is used for a cohort of recent graduates and not for one person, two risks scale with it.
+
+- **Network signatures.** If many petitions from one mentor's circle cite the same judging events, the same small venues and letters from the same people, officers can see the pattern. Each person's record needs to look like their own, because it should be.
+- **In-house opportunities.** Judging panels, awards or publications created through organizations the program's own organisers run are in-network evidence: easy to discount and, in the current climate, a credibility risk for everyone who relies on them. The strongest help is opening doors to external, selective venues, not creating venues.
+
+None of that argues against helping people build real records. It argues for steering them toward the hardest selective opportunities they can plausibly win.
 
 ## The eight criterion folders
 
@@ -222,3 +272,21 @@ Status words used in `papers/`: **Drafted** (full prose, claims and citations st
 - Beyond Border, on preventing double-counting across criteria. https://www.beyondborderglobal.com/resources/o-1a-preventing-double-counting-when-one-project-fuels-press-talks-and-a-critical-role-letter
 - Beyond Border, building an evidence tracker over 6-12 months. https://www.beyondborderglobal.com/resources/building-an-o-1a-evidence-tracker-over-6-12-months-what-to-collect-as-you-work
 - Colombo & Hurd, O-1 for academic researchers by career stage. https://www.colombohurdlaw.com/?p=12596
+- Zneimer & Zneimer, review of AAO decisions on O-1 awards. https://www.theusimmigrationlawyer.com/review-of-aao-decisions-shows-that-awards-in-o-1-petitions-and-awards-recognition-is-not-getting-a-trophy/
+- Breakthrough USA, on pay-to-enter business awards. https://www.breakthroughusa.com/eb-1-visa-fraud-part-3/
+- Locke Immigration, scholarly-articles criterion and RFE patterns. https://www.lockeimmigration.com/eb1a/criteria/scholarly-articles
+- Legal Services Incorporated, authorship outside academic journals. https://legalservicesincorporated.com/immigration/extraordinary-ability/can-i-meet-the-authorship-of-articles-criteria-for-o1-or-eb1a-even-if-the-articles-were-not-published-in-a-traditional-academic-journal
+- Beyond Border, judging evidence for conferences, journals, hackathons and panels. https://www.beyondborderglobal.com/resources/o-1-judging-evidence-conferences-journals-hackathons-panels
+- Beyond Border, judging versus mentoring versus hosting. https://www.beyondborderglobal.com/resources/judging-vs-mentoring-vs-hosting-what-uscis-accepts-for-o-1
+- Deel, O-1 evidence checklist and common adjudication issues. https://www.deel.com/blog/o-1-visa-requirements/
+
+**Awards programs**
+
+- MIT Technology Review, 2026 Innovators Under 35 nominations. https://www.technologyreview.com/2025/12/01/1128610/nominations-open-global-2026-innovators-under-35-competition
+- MIT Technology Review, how the 2026 Innovators Under 35 were selected. https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/
+- Innovators Under 35 regional nomination pages. https://www.innovatorsunder35.com/about/nominate-innovators-under-35-apply/
+- ProPakistani, summary of Forbes 2027 Under 30 nominations. https://propakistani.pk/2026/07/25/forbes-invites-nominations-for-30-under-30/
+
+**Filing-time burden**
+
+- EY, summary of USCIS PA-2026-05 (burden to establish eligibility at filing). https://taxnews.ey.com/news/2026-1710-united-states-updates-uscis-policy-guidance-that-authorizes-discretionary-denials
